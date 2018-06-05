@@ -1,0 +1,99 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>David Alexander Storm Resume</title>
+
+	<style>
+
+		body {
+
+			background-color: #85CC83;
+
+			margin: 0 15%;
+
+			font-family: sans-serif;
+
+		}
+
+		h1 {
+
+			text-align: center;
+
+			font-family: serif;
+
+			font-weight: normal;
+
+			text-transform: uppercase;
+
+			border-bottom: 1px solid #E16C00;
+
+		}
+
+		h2 {
+
+			color: #d1633c;
+
+			font-size: 1em;
+
+		}
+
+	</style>
+
+</head>
+
+
+
+<body>
+
+	
+
+	<p><h1> David Alexander Storm Resume</h1></p>
+
+
+<p>David Alexander Storm, also goes by Alex Storm, is an amatuer creative writer/graphic designer. He aspires to have a full time career as a graphic designer to support his hobby of writing stories. He has previously lived in Cinicnnati, Ohio before moving down to Orlando, Florida in 2010. He is currently employed at Office Depot, working in the copy and print department where he takes in large print jobs for customers that occasionally involves editing a file or desigining business cards. He has also helped co-write for local plays for the anime fan organization A-Spot twice.</p>
+
+
+	<h2>Skills</h2>
+
+	<ul>
+		<li>Web Development</li>
+		<li>Adobe Creative Suite</li>
+		<li>Customer Service</li>
+		<li>File Editing</li>
+		<li>Logo Design</li>
+		<li>Creative Writing</li>
+		<li>Video Directing</li>
+		<li>Video Editing</li>
+		<li>
+
+
+<h2>Software</h2>
+
+<ul>
+	<li>Adobe Photoshop</li>
+	<li>Adobe Dreamweaver</li>
+	<li>Adobe Acrobat</li>
+	<li>Microsoft Publisher</li>
+	<li>Microsoft Word</li>
+
+	
+
+	<h2>Social Media</h2>
+
+	<a href="https://www.linkedin.com/in/david-storm-bb491b155">LinkedIn Profile</a>
+	<a href="https://letterboxd.com/AlexStorm/">LetterboxD</a>
+	<a href="https://twitter.com/BronzeMedalAlex">Twitter</a>
+	<a href="https://www.youtube.com/channel/UCHkbeq_jJUZO-YLEO3ortxg?view_as=subscriber">YouTube</a>
+
+
+
+	
+
+</body>
+
+</html>
