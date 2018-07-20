@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Steep prices and trees</title>
+
+	<link rel="stylesheet" type="text/css" href="stylesuponstyles.css">
+
+
+	<style>
+
+		body {
+			background-color: blueviolet;
+		}
+
+		h1 {
+			color: chartreuse;
+
+					margin-left: 40px;
+			
+					background-color: darkorchid;
+		}
+	
+	</style>
+
+</head>
+
+
+<body>
+	
+<h1 style="color:darkkhaki;margin-left:80px;">Everybody, Everybody!</h1>
+	
+<img src="tomato.jpeg" width="250px" height="250px">
+	
+	
+<p>The Digital Design Program offers students the skills and training needed to work as a digital media professional through the creation of appealing and engaging content. 
+Our hands-on approach gives the student the communication, production and technical proficiency training techniques needed to make sophisticated choices in the creation of digital media art. 
+The student is challenged to go beyond their depth of creativity while exploring an array of recent methods and approaches currently used within the field of digital media.
+
+
+This program not only provides skills training, but also examines the theories behind new methods of conveying information, how audiences take in and react to this type of messaging and how media must adapt its message. 
+Students are taught to work effectively on both an individual basis and as a member of a team, to prepare them for work as an industry professional. 
+Instructors with extensive experience in the field share their insights and experience on what it takes to succeed as a digital media professional.</p>
+	
+<h1>I don't have to follow your rules DAD!!!</h1>
+
+
+	
+
+</body>
+
+</html>

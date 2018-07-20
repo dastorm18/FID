@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Steep prices and trees</title>
+
+	<link rel="stylesheet" type="text/css" href="stylesuponstyles.css">
+
+
+	<style>
+
+		body {
+			background-color: blueviolet;
+		}
+
+		h1 {
+			color: chartreuse;
+
+					margin-left: 40px;
+			
+					background-color: darkorchid;
+		}
+	
+	</style>
+
+</head>
+
+
+<body>
+	
+<h1 style="color:darkkhaki;margin-left:80px;">Everybody, Everybody!</h1>
+	
+<img src="tomato.jpeg" width="250px" height="250px">
+
+
+<h1><a href="http://tomatocakes.html">Click here to return to the main menu!</a></h1>
