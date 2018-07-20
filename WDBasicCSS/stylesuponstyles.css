@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	
+background-color: blueviolet;
+}
+
+
+h1 { color: yellow;
+
+	background-color: darkred; font-family: 'Tangerine', serif;
+}
+
+h2 { color: navy;
+	margin-left: 20px;
+	background-color: darkred; font-family: 'Tangerine', serif;
+}
+
+p {
+ background-color: red;	border: 3px solid #006E0F;
+}
+td, th {border: #006E0F solid; background-color: red;}
+		
+tr {margin-center: 10px; width: 500px;}
+table {border: 3px solid #006E0F; background-color: red;}
+
+img { border: 3px solid yellow;}
+a: link { color: navy;}
+a: visited {color: #006E0F;}
+a: hover {color: orange;}
